@@ -1,0 +1,23 @@
+.head{
+    text-align: center;
+}
+.regis-form {
+    border: 1px solid;
+    padding: 15px 15px;
+    overflow: hidden;
+}
+.form-check {
+    position: relative;
+    display: block;
+    padding-left: 2.25rem;
+}
+.float-right.col-md-3.buttchk {
+    /* margin-top: -60px; */
+    margin: -60px 16px;
+}
+.spncolor{
+    background-color: #3A58AE;
+}
+.facolor{
+    color: white;
+}
